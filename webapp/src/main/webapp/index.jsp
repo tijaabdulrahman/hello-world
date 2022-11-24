@@ -13,7 +13,7 @@
     <br>
 
     <label for="Name"><b>Enter SSN Last 4</b></label>
-    <input type="text" placeholder="Enter SSN Last Four" name="SSN Last 4" id="SSN Last Four" required>
+    <input type="text" placeholder="Enter SSN Last 4" name="SSN Last 4" id="SSN Last 4" required>
     <br>
 
 
